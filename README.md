@@ -8,5 +8,5 @@ https://colab.research.google.com/drive/1Ia_OwWqMax5JIUJJ6nIR6UOiLQ-Ds2_j#scroll
 Using Google Co-Laboratory to introduce the idea of solving systems of equations with code:
 FILE GOES HERE
 
-3. Transition Matrices & Markov's Chain
+2. Transition Matrices & Markov's Chain
 https://github.com/natgrace550-ops/Math311-Linear-Algebra/blob/main/Natalie_The_Ski_Hill_Transition_Matrices_and_Markov_Chains.ipynb
