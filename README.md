@@ -9,3 +9,4 @@ Using Google Co-Laboratory to introduce the idea of solving systems of equations
 FILE GOES HERE
 
 3. Transition Matrices & Markov's Chain
+https://github.com/natgrace550-ops/Math311-Linear-Algebra/blob/main/Natalie_The_Ski_Hill_Transition_Matrices_and_Markov_Chains.ipynb
