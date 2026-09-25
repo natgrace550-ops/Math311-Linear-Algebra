@@ -9,6 +9,6 @@ Using Google Co-Laboratory to introduce the idea of solving systems of equations
 FILE GOES HERE
 
 2. Transition Matrices & Markov's Chain
-Short description of the project: We used Markov's Chain to predict where people would go be at a Ski Hill.
 
+Short description of the project: We used Markov's Chain to predict where people would go be at a Ski Hill.
 https://github.com/natgrace550-ops/Math311-Linear-Algebra/blob/main/Natalie_The_Ski_Hill_Transition_Matrices_and_Markov_Chains.ipynb
