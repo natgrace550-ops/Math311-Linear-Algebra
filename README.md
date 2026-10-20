@@ -19,4 +19,4 @@ https://github.com/natgrace550-ops/Math311-Linear-Algebra/blob/main/Natalie_The_
 
 
 4. Sports Team Rankings
-5. https://github.com/natgrace550-ops/Math311-Linear-Algebra/blob/main/Natalie_Sports_Teams_Rankings.ipynb
+https://github.com/natgrace550-ops/Math311-Linear-Algebra/blob/main/Natalie_Sports_Teams_Rankings.ipynb
