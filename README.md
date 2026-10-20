@@ -12,3 +12,11 @@ FILE GOES HERE
 
 Short description of the project: We used Markov's Chain to predict where people would go be at a Ski Hill.
 https://github.com/natgrace550-ops/Math311-Linear-Algebra/blob/main/Natalie_The_Ski_Hill_Transition_Matrices_and_Markov_Chains.ipynb
+
+3.  
+
+
+
+
+4. Sports Team Rankings
+5. https://github.com/natgrace550-ops/Math311-Linear-Algebra/blob/main/Natalie_Sports_Teams_Rankings.ipynb
